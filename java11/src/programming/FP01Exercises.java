@@ -23,7 +23,7 @@ public class FP01Exercises {
 		// .forEach(System.out::println);
 		
 		courses.stream()
-			.map(course -> course + " " + course.length()) 
+			.map(index -> index + " " + index.length()) 
 			.forEach(System.out::println);
 	}
 

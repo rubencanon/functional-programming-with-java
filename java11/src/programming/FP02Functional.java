@@ -29,9 +29,9 @@ public class FP02Functional {
 		// 62 15
 		// 77
 		
-		// int sum = addListFunctional(numbers);
+		 int sum = addListFunctional(numbers);
 		//
-		// System.out.println(sum);
+		 System.out.println(sum);
 
 	}
 	
